@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTagHelper", "ImageTagHelper\ImageTagHelper.csproj", "{8F6A66CD-DD79-4B42-B70D-9DCCD670BFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6A66CD-DD79-4B42-B70D-9DCCD670BFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6A66CD-DD79-4B42-B70D-9DCCD670BFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6A66CD-DD79-4B42-B70D-9DCCD670BFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6A66CD-DD79-4B42-B70D-9DCCD670BFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01BA4ED0-D352-4D09-9B23-0D62B510ABBF}
+	EndGlobalSection
+EndGlobal

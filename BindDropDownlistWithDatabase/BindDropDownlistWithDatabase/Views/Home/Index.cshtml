@@ -1,0 +1,59 @@
+﻿@model BindDropDownlistWithDatabase.Models.StudentModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<form asp-action="Index" asp-controller="Home" method="post">
+<label class="form-label" > Select Student Name </label>
+@* <select asp-for="ID" class="form-control" asp-items="@(new SelectList(Model.StudentList,"Value","Text"))">
+
+</select> *@
+    @Html.DropDownListFor(x => x.ID, new SelectList(Model.StudentList, "Value", "Text"),new {@class="form-control"})
+<input type="submit" value="Sumbit" class="btn btn-outline-primary"/>
+</form>
+
+<br />
+@{
+    if (ViewBag.selectValue!=null)
+    {
+        <h2>Selected STudent Name : @ViewBag.selectValue</h2>
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

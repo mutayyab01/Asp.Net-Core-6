@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    // Layout = "~/Views/Shared/_Layout.cshtml";
+    // Layout = "~/Views/Shared/_Layout2.cshtml";
+    Layout = null;
+}
+
+<h1>Index Page</h1>
+<p>This is my home Page</p>
+
+@{
+    if (ViewBag.data2!=null)
+    {
+        <h1>@ViewBag.data2</h1>
+    }else
+    {
+        <h1>NO Data To Display</h1>
+    }
+}
+
+
+@* 
+@ViewData["data1"]<br />
+@ViewData["data2"]
+<br /><br />
+@ViewData["data3"]
+<br /> *@
+
+@* 
+@ViewBag.Title
+<br />
+@ViewBag.Name *@
+
+

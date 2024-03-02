@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DropDownAspCore6.props" />
+</Project>

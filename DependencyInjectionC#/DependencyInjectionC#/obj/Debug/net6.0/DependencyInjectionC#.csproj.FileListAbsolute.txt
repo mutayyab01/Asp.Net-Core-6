@@ -1,0 +1,14 @@
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\bin\Debug\net6.0\DependencyInjectionC#.exe
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\bin\Debug\net6.0\DependencyInjectionC#.deps.json
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\bin\Debug\net6.0\DependencyInjectionC#.runtimeconfig.json
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\bin\Debug\net6.0\DependencyInjectionC#.dll
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\bin\Debug\net6.0\DependencyInjectionC#.pdb
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.AssemblyInfoInputs.cache
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.AssemblyInfo.cs
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.csproj.CoreCompileInputs.cache
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.dll
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\refint\DependencyInjectionC#.dll
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.pdb
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\DependencyInjectionC#.genruntimeconfig.cache
+C:\Users\mutay\source\repos\DependencyInjectionC#\DependencyInjectionC#\obj\Debug\net6.0\ref\DependencyInjectionC#.dll

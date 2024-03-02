@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LoginFormAspCore6.props" />
+</Project>

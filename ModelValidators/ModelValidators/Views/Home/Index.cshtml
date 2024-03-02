@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<div class="container">
+
+<div class="row">
+    <div class="col-sm-4">
+            <form asp-action="Index" asp-controller="Home" method="post">
+                <div asp-validation-summary="All"></div>
+
+
+
+
+                <label asp-for="Name"></label>
+
+                <input asp-for="Name" class="form-control" placeholder="Enter Name"/>
+                @* <span asp-validation-for="Name" style="color:red;"></span> *@
+                <br />
+                <label asp-for="Email"></label>
+
+                <input asp-for="Email" class="form-control" placeholder="Enter Name" />
+                @* <span asp-validation-for="Email" style="color:red;"></span> *@
+                <br />
+                <label asp-for="Age"></label>
+                <input asp-for="Age" class="form-control" placeholder="Enter Age" />
+                @* <span asp-validation-for="Age" style="color:red;"></span> *@
+                <br />
+                @* <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+                <span asp-validation-for="Password" style="color:red;"></span>
+                <br />
+                <input asp-for="Cpassword" class="form-control" placeholder="Enter Cpassword" />
+                <span asp-validation-for="Cpassword" style="color:red;"></span>
+                <br />
+                <input asp-for="WebsiteURL" class="form-control" placeholder="Enter Cpassword" />
+                <span asp-validation-for="WebsiteURL" style="color:red;"></span>
+                <br /> *@
+                <input type="submit" value="suubit" class="btn btn-outline-primary"/>
+
+
+            </form>
+    </div>
+</div>
+
+</div>
+

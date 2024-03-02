@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ViewModelAspCore6.props" />
+</Project>

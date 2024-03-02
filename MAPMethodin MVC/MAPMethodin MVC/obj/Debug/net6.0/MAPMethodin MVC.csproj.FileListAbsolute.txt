@@ -1,0 +1,25 @@
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\MAPMethodin MVC.exe
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\MAPMethodin MVC.deps.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\MAPMethodin MVC.runtimeconfig.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\MAPMethodin MVC.dll
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\bin\Debug\net6.0\MAPMethodin MVC.pdb
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.AssemblyInfoInputs.cache
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.AssemblyInfo.cs
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.csproj.CoreCompileInputs.cache
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets\msbuild.MAPMethodin MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MAPMethodin MVC.props
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MAPMethodin MVC.props
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MAPMethodin MVC.props
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\scopedcss\bundle\MAPMethodin MVC.styles.css
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.dll
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\refint\MAPMethodin MVC.dll
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.pdb
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\MAPMethodin MVC.genruntimeconfig.cache
+C:\Users\mutay\source\repos\MAPMethodin MVC\MAPMethodin MVC\obj\Debug\net6.0\ref\MAPMethodin MVC.dll

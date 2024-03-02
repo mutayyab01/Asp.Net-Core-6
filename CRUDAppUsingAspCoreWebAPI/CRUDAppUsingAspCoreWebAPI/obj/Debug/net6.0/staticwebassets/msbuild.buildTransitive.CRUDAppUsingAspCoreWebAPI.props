@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CRUDAppUsingAspCoreWebAPI.props" />
+</Project>

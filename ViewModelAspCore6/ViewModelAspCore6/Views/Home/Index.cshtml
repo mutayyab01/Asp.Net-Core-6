@@ -1,0 +1,83 @@
+﻿@model ViewModelAspCore6.Models.ViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+<div class="container">
+    <h2 class="justify-content-center align-content-center align-items-center text-center">Student Data</h2>
+
+    @if (Model.myStudent.Any())
+    {
+
+
+
+        <table class="table table-bordered table-hover table-primary table-striped ">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Class</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (var item in Model.myStudent)
+                    {
+                        <tr>
+                            <td> @item.Id</td>
+                            <td> @item.StudentName</td>
+                            <td> @item.StudentGender</td>
+                            <td> @item.Standard</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+        </table>
+    }else
+    {
+            <h2 class="text-danger">No Student Found </h2>
+    }
+    <h2 class="justify-content-center align-content-center align-items-center text-center">Teacher Data</h2>
+    @if (Model.myTeacher.Any())
+    {
+
+        <table class="table table-bordered table-hover table-success table-striped ">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Qualification</th>
+                    <th>Salary</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (var item in Model.myTeacher)
+                    {
+                        <tr>
+                            <td> @item.Id</td>
+                            <td> @item.Name</td>
+                            <td> @item.Qualification</td>
+                            <td> @item.Salary</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+
+        </table>
+    }
+    else
+    {
+        <h2 class="text-danger">No Teacher Found </h2>
+    }
+
+</div>

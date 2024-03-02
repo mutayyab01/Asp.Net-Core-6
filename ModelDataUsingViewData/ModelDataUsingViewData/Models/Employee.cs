@@ -1,0 +1,13 @@
+﻿namespace ModelDataUsingViewData.Models
+{
+    public class Employee
+    {
+        public int Empid { get; set; }
+        public string EmpName { get; set; }
+        public string Designation { get; set; }
+        public int Salary { get; set; }
+
+
+
+    }
+}
